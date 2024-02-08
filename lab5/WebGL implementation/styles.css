@@ -1,0 +1,25 @@
+body {
+  margin: 0px;
+  padding: 0px;
+  overflow: scroll;
+}
+
+#canvas {
+  display: inline-block;
+  vertical-align: top;
+  width: 1200px;
+  height: 700px;
+}
+
+#uiContainer {
+  display: inline-block;
+  vertical-align: top;
+}
+
+#ui {
+  font-size: 14px;
+}
+
+#ui input[type="range"] {
+  width: 300px;
+}
